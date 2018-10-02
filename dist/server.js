@@ -46,7 +46,7 @@ require('dotenv').config({ path: './.env' });
 
 const app = (0, _express2.default)();
 
-const port = process.env.PORT || APP_PORT;
+const port = process.env.PORT || process.env.APP_PORT;
 const env = process.env.APP_ENV;
 
 app.use(_bodyParser2.default.urlencoded({ extended: true }));
