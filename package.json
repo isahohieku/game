@@ -4,7 +4,7 @@
 	"description": "Simple Game",
 	"scripts": {
 		"clean": "rimraf 'dist'",
-		"start": "cd dist && nodemon server.js",
+		"start": "cd dist && node server.js",
 		"build": "babel src --out-dir dist",
 		"watch": "babel -w src --out-dir dist"
 	},
@@ -36,8 +36,7 @@
 		"mongoose-string-query": "^0.2.5",
 		"mongoose-timestamp": "^0.6.0",
 		"morgan": "^1.9.1",
-		"winston": "^2.4.4",
-		"nodemon": "*"
+		"winston": "^2.4.4"
 	},
 	"main": "server.js",
 	"author": "Isah Ohieku"
