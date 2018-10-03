@@ -4,7 +4,7 @@
 	"description": "Simple Game",
 	"scripts": {
 		"clean": "rimraf 'dist'",
-		"start": "cd dist && node server.js",
+		"start": "cd dist && nodemon server.js",
 		"build": "babel src --out-dir dist",
 		"watch": "babel -w src --out-dir dist"
 	},
