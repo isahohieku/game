@@ -1,0 +1,133 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.f7ad9df9dc2349008549.js",
+        "/polyfills.f6ae3e8b63939c618130.js",
+        "/runtime.06daa30a2963fa413676.js",
+        "/styles.1685bc92114f15d6881d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/apple.png",
+        "/assets/img/cabbage.png",
+        "/assets/img/carrots.png",
+        "/assets/img/cassava.png",
+        "/assets/img/cocoyam.png",
+        "/assets/img/guava.png",
+        "/assets/img/lettuce.png",
+        "/assets/img/lion.png",
+        "/assets/img/mallow.png",
+        "/assets/img/mango.png",
+        "/assets/img/orache.png",
+        "/assets/img/orange.svg",
+        "/assets/img/pawpaw.png",
+        "/assets/img/potatoes.png",
+        "/assets/img/tomatoes.png",
+        "/assets/img/yam.png",
+        "/assets/webfonts/fa-brands-400.eot",
+        "/assets/webfonts/fa-brands-400.svg",
+        "/assets/webfonts/fa-brands-400.ttf",
+        "/assets/webfonts/fa-brands-400.woff",
+        "/assets/webfonts/fa-brands-400.woff2",
+        "/assets/webfonts/fa-regular-400.eot",
+        "/assets/webfonts/fa-regular-400.svg",
+        "/assets/webfonts/fa-regular-400.ttf",
+        "/assets/webfonts/fa-regular-400.woff",
+        "/assets/webfonts/fa-regular-400.woff2",
+        "/assets/webfonts/fa-solid-900.eot",
+        "/assets/webfonts/fa-solid-900.svg",
+        "/assets/webfonts/fa-solid-900.ttf",
+        "/assets/webfonts/fa-solid-900.woff",
+        "/assets/webfonts/fa-solid-900.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/img/apple.png": "2d0856c2dc25721e7a3be089c3683dcc789f47c7",
+    "/assets/img/cabbage.png": "631db817e5bff3c287de0eeba9d6d4a0a51cceb7",
+    "/assets/img/carrots.png": "f687933556c72e6647f09590e0e6fc517a8c2555",
+    "/assets/img/cassava.png": "12c41c995c4b52411347ce567de9233b41e871b4",
+    "/assets/img/cocoyam.png": "a184dc37b6c7b96f83b22e80a3dff60f1ae85480",
+    "/assets/img/guava.png": "9479c06441b70c3758738a259588258a0f0df5d9",
+    "/assets/img/lettuce.png": "00f12a8b35df7ec2b8abfc120adbf80acb7d6eab",
+    "/assets/img/lion.png": "9e7cc6110a58fad5cf60966ac7a2159f1b093563",
+    "/assets/img/mallow.png": "464ee0e9a84b76104ebd6986d2e6f70244bb4732",
+    "/assets/img/mango.png": "c03fc4d01f2aa15690df58cc030b3f34b1822562",
+    "/assets/img/orache.png": "796ea85272e0716a7196831cb91f5eef2460c7a4",
+    "/assets/img/orange.svg": "2fd37d8c8202a48f9633eaffcd4b4efecc107ecf",
+    "/assets/img/pawpaw.png": "a3c3a38dd10af5cb7c672a03fbaf683efc2bbd83",
+    "/assets/img/potatoes.png": "f59cc8654eaebb50d356609566e15e59b874e8d0",
+    "/assets/img/tomatoes.png": "9a6754913703de73ed3f3e6c06a8ec519ea22b12",
+    "/assets/img/yam.png": "1898139e0bf6e1961a56896deeadc082b079c2eb",
+    "/assets/webfonts/fa-brands-400.eot": "644ece8263d2f96b087eebf7f6d4e309e5898eb5",
+    "/assets/webfonts/fa-brands-400.svg": "b0bb9e6ac7709206b9510f1718516d89aead5b21",
+    "/assets/webfonts/fa-brands-400.ttf": "19e302760e39e25a5f8d90d6cd0164ef6cd74f8c",
+    "/assets/webfonts/fa-brands-400.woff": "f9d835a0f9248b1bb33d66968e87c4a50103ed8d",
+    "/assets/webfonts/fa-brands-400.woff2": "d902f8db3e021155f177f698a252fb98d6e61768",
+    "/assets/webfonts/fa-regular-400.eot": "42ff503f20e97503cef8e5b2ec10ae07699d7c01",
+    "/assets/webfonts/fa-regular-400.svg": "33e86c0ad6fb9c5c0c8c2af4cb2d790c6b14a8aa",
+    "/assets/webfonts/fa-regular-400.ttf": "c140085833a38abec6b7df99d4ccac93eb266031",
+    "/assets/webfonts/fa-regular-400.woff": "7b3f44b4d3028f3c87ddf0f4bd62511c9bf4a87e",
+    "/assets/webfonts/fa-regular-400.woff2": "9784edb76f8a2ed595ea4bf74d46cda4eff3b303",
+    "/assets/webfonts/fa-solid-900.eot": "10740942ec6b3f4985529d343402d0bf32f9f847",
+    "/assets/webfonts/fa-solid-900.svg": "ed6c1ed8f24df909f40fe5e5c652d7ff9570c821",
+    "/assets/webfonts/fa-solid-900.ttf": "c445864a9646948e0d7ff44930ad732ee61427d8",
+    "/assets/webfonts/fa-solid-900.woff": "80d33a73cbb60e206ef6f5c898988641576c7dda",
+    "/assets/webfonts/fa-solid-900.woff2": "92da6e3c7121e21cdfde25ef08797a3937a683e1",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "bc24155f4beb400ba7053eca83f0f55b0f6c5bcc",
+    "/main.f7ad9df9dc2349008549.js": "cdd8046abd400039e5bbf8ae2c5247b4a2736e41",
+    "/polyfills.f6ae3e8b63939c618130.js": "ef2035f0504b4f77eac510c33595c81a5d09e33f",
+    "/runtime.06daa30a2963fa413676.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/styles.1685bc92114f15d6881d.css": "161996183ee82ad83e769afac500116ac81ee939"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
