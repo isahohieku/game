@@ -1,8 +1,17 @@
 
-This is my back end contact app
+Simple Game App
 =======
 
-My Back End Contact Application
+The backend of this Application is Built on NodeJS
+
+The frontend is based on Angular 6
+
+Some Dependencies such as mongoose and cors were used. I would list the complete dependencies later.
+
+Intalling the Game App
+=======
+
+The game can be cloned or downloaded to the desired folder.
 
 Create a .env file at the root folder with the following variable
     App Port
@@ -10,17 +19,11 @@ Create a .env file at the root folder with the following variable
     Db URi
     DB Username
     Db Password
+    
+Run 'npm install' in the command-line to install dependencies
 
-    JWt Secret
+Run 'npm start' in the command-line to start the application
 
-    Email Username
-    Email Password
-    Email Port
-    Email Host
+This documentation would be made better in the future
 
-    Run 'npm install' to install dependencies
-
-    Run 'npm start' to start the application
-
-
-    Contributions are welcomed
+Contributions are welcomed
